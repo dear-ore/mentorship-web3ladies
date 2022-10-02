@@ -2,6 +2,8 @@
 All assignments submitted during web3ladies cohort 3 mentorship programme
 
 Learning phase - week3 answers
+
+
 Difference between a view and a pure function: A view function is a read-only function that will let one view a state variable, but will not let the function make any changes to the state variable. A pure function can not read a state variable, and also cannot modify a state variable.
 
 Difference between a payable and non payable function: A function marked as "payable" allows ether to be transferred(sent) along with the logic of that function, while a non payable function cannot transfer ether.
