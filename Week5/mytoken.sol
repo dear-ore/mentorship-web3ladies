@@ -15,7 +15,7 @@ contract week5 is IERC20 {
 
     constructor() {
         _name = "Oreoluwa";
-        _symbol = "ORE";
+        _symbol = "OA";
         _decimal = 18;
         uint amount = 1000000 * 10**_decimal;
         _totalSupply+= amount;
